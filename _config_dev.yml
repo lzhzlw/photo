@@ -1,8 +1,8 @@
-title: El_photography
+title: LZH_photography
 url:  http://127.0.0.1:4000
 baseurl: 
 
-author: Disha Patel
+author: Zhenhai Liu
 description: Discovering the world with my vision.
 
 include: ['_pages']
@@ -12,30 +12,18 @@ collections_dir: series
 collections:
   home:
     output: true
-  pondi:
-    output: true
-  kochi:
-    output: true
-  rj_women:
-    output: true
-  venice:
-    output: true
   2024_chicago:
     output: true
-  rimi:
+  beijing:
     output: true
-  london:
-    output: true
-  mumbai:
-    output: true
-  cn_fishnet:
-    output: true
-  market:
-    output: true 
-  bastilleday:
-    output: true
-  kathakali:
+  on_the_way:
     output: true  
+  linzhi:
+    output: true
+  yangzhou:
+    output: true
+  us:
+    output: true
     
 markdown: kramdown
 kramdown:
